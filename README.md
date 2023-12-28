@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @57Esther
 - 👀 I’m interested in coding. 
-- 🌱 I’m currently learning html and css.
+- 🌱 I’m currently learning Html and Css and Java Script.
 - 💞️ I’m looking to collaborate on java scripts and python.
 - 📫 How to reach me via slack @O.Esther 
 
